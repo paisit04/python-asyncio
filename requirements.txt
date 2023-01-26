@@ -1,0 +1,12 @@
+aiohttp==3.8.1
+asyncpg==0.23.0
+requests==2.25.1
+numpy==1.21.0
+flask==2.0.1
+# psycopg2==2.9.1 # pip3 install psycopg2-binary
+gunicorn==20.1.0
+uvicorn==0.14.0
+starlette==0.15.0
+websockets==9.1
+django==3.2.8
+uvloop==0.16.0
